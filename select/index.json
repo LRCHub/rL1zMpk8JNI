@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "呼吸さえも一つに混ざる",
+  "base_artist": "gaburyu",
+  "createdAt": "2026-02-17T14:55:20.886798Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "呼吸さえも一つに混ざる (feat. yosumi)",
+      "artist": "gaburyu",
+      "has_synced": false,
+      "path": "select/pl_01_呼吸さえも一つに混ざる_(feat._yosumi)_gaburyu.txt"
+    }
+  ]
+}
